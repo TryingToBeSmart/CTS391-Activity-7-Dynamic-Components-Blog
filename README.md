@@ -1,3 +1,9 @@
+# Activity 7 Dynamic Components Demo Blog
+Created an app that creates and deletes components dynamically.  The parent (App.js) controls the function definitions of handleAddPost and handleDeletePost.
+
+![](screenshots/blog.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
